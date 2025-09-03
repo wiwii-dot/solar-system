@@ -4,7 +4,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(93, 80, 80);
+    background-color: rgb(6, 5, 5);
     overflow: hidden;
 }
 .container{
